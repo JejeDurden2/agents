@@ -1,0 +1,11 @@
+{
+  "name": "jd",
+  "owner": { "name": "Jerome Desmares" },
+  "plugins": [
+    {
+      "name": "jd-skills",
+      "source": "./",
+      "description": "Skills et regles partagees : marketing, SEO, craft frontend, voix editoriale."
+    }
+  ]
+}
