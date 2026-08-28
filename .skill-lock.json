@@ -504,6 +504,15 @@
       "skillFolderHash": "afd053fa85269d70d7e76f56321d7eb5bebde212",
       "installedAt": "2026-08-21T18:23:46.963763Z",
       "updatedAt": "2026-08-24T06:47:46.290Z"
+    },
+    "retention-engagement": {
+      "source": "refoundai/lenny-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/refoundai/lenny-skills.git",
+      "skillPath": "skills/retention-engagement/SKILL.md",
+      "skillFolderHash": "287bbbed39ce697a61325dda2741040a6a742b80",
+      "installedAt": "2026-08-28T09:06:40.410Z",
+      "updatedAt": "2026-08-28T09:06:40.410Z"
     }
   },
   "dismissed": {
