@@ -492,9 +492,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Jakubantalik/transitions.dev.git",
       "skillPath": "skills/transitions-dev/SKILL.md",
-      "skillFolderHash": "c942e6c9cbabf11ae8d28ec3717b4f108f0ad230",
+      "skillFolderHash": "f3f6692028d4d6f6b601d58cd6d876aaccc9d900",
       "installedAt": "2026-08-21T18:23:46.963763Z",
-      "updatedAt": "2026-08-24T06:47:43.503Z"
+      "updatedAt": "2026-08-31T06:47:12.578Z"
     },
     "transitions-polish": {
       "source": "Jakubantalik/transitions.dev",
@@ -513,6 +513,423 @@
       "skillFolderHash": "287bbbed39ce697a61325dda2741040a6a742b80",
       "installedAt": "2026-08-28T09:06:40.410Z",
       "updatedAt": "2026-08-28T09:06:40.410Z"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "skillFolderHash": "3d35cd438f4067b03c8b3792e038960e4ac11526",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-08-30T19:50:38.632Z",
+      "updatedAt": "2026-08-30T19:50:38.632Z"
+    },
+    "codebase-design": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/codebase-design/SKILL.md",
+      "skillFolderHash": "344e3efc88ee60663b2e989555c2efdb548fbd42",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-08-30T19:51:10.172Z",
+      "updatedAt": "2026-08-30T19:51:10.172Z"
+    },
+    "sentry-cli": {
+      "source": "cli.sentry.dev",
+      "sourceType": "well-known",
+      "sourceUrl": "https://cli.sentry.dev/.well-known/skills/sentry-cli/SKILL.md",
+      "skillFolderHash": "",
+      "sourceBaseUrl": "https://cli.sentry.dev",
+      "wellKnownDigest": "sha256:f0e5c3fdf1cfe71cefcdff90fd9bc5ab37e0a5f92692ee8579bfbfac275100a0",
+      "installedAt": "2026-09-01T06:55:23.773Z",
+      "updatedAt": "2026-09-01T06:55:23.773Z"
+    },
+    "stop-slop": {
+      "source": "hardikpandya/stop-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/hardikpandya/stop-slop.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "8da1f030185bdfe8471220585162991eaeb970e9",
+      "installedAt": "2026-09-01T06:55:26.729Z",
+      "updatedAt": "2026-09-01T06:55:26.729Z"
+    },
+    "langfuse": {
+      "source": "langfuse/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/langfuse/skills.git",
+      "skillPath": "skills/langfuse/SKILL.md",
+      "skillFolderHash": "a8c9f7cf7bab8d6b6fcadc0f3581afec7ae44045",
+      "installedAt": "2026-09-01T06:56:12.790Z",
+      "updatedAt": "2026-09-01T06:56:12.790Z"
+    },
+    "neon-postgres": {
+      "source": "neondatabase/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/neondatabase/agent-skills.git",
+      "skillPath": "skills/neon-postgres/SKILL.md",
+      "skillFolderHash": "4c6c09525ec0f24f2949df404ab4333b64c151ad",
+      "installedAt": "2026-09-01T06:57:06.356Z",
+      "updatedAt": "2026-09-01T06:57:06.356Z"
+    },
+    "xlsx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/xlsx/SKILL.md",
+      "skillFolderHash": "fe6471cc9b5b97aae0b576ccb92ffd9b0207589d",
+      "pluginName": "document-skills",
+      "installedAt": "2026-09-01T07:24:07.977Z",
+      "updatedAt": "2026-09-01T07:24:07.977Z"
+    },
+    "algorithmic-art": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/algorithmic-art/SKILL.md",
+      "skillFolderHash": "4aef6bcad51d058ec32b1acb9da436851863e56e",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:35.831Z",
+      "updatedAt": "2026-09-01T07:24:35.831Z"
+    },
+    "brand-guidelines": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/brand-guidelines/SKILL.md",
+      "skillFolderHash": "1dc8bd3584b80568edae7da16382363e24ecf0f0",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:35.833Z",
+      "updatedAt": "2026-09-01T07:24:35.833Z"
+    },
+    "template-skill": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "template/SKILL.md",
+      "skillFolderHash": "a38aa7fa73fd2835b9ce77a60274f7dc62d015a6",
+      "installedAt": "2026-09-01T07:24:57.072Z",
+      "updatedAt": "2026-09-01T07:24:57.072Z"
+    },
+    "canvas-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/canvas-design/SKILL.md",
+      "skillFolderHash": "95095faaee2ea943e85a5d1d562fde06841e835e",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.073Z",
+      "updatedAt": "2026-09-01T07:24:57.073Z"
+    },
+    "claude-api": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/claude-api/SKILL.md",
+      "skillFolderHash": "2f4ced4eb63fc6eb80bfdf85f050e319d5a57132",
+      "pluginName": "claude-api",
+      "installedAt": "2026-09-01T07:24:57.074Z",
+      "updatedAt": "2026-09-01T07:24:57.074Z"
+    },
+    "doc-coauthoring": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/doc-coauthoring/SKILL.md",
+      "skillFolderHash": "d9df960e61fe2bafe9183e37de6f9f6b73b74087",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.074Z",
+      "updatedAt": "2026-09-01T07:24:57.074Z"
+    },
+    "docx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/docx/SKILL.md",
+      "skillFolderHash": "6e6f5b95c1de6e803cc07b214f5059b074d64e0c",
+      "pluginName": "document-skills",
+      "installedAt": "2026-09-01T07:24:57.075Z",
+      "updatedAt": "2026-09-01T07:24:57.075Z"
+    },
+    "internal-comms": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/internal-comms/SKILL.md",
+      "skillFolderHash": "9869687dcf6deb6802ca88ac11e67b6f7278017a",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.075Z",
+      "updatedAt": "2026-09-01T07:24:57.075Z"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/mcp-builder/SKILL.md",
+      "skillFolderHash": "b866bcfb57b780c10b587c7b543e871a91661ce0",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.075Z",
+      "updatedAt": "2026-09-01T07:24:57.075Z"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/pdf/SKILL.md",
+      "skillFolderHash": "6369f4649de69bd6857c9bc3b058a77206009238",
+      "pluginName": "document-skills",
+      "installedAt": "2026-09-01T07:24:57.076Z",
+      "updatedAt": "2026-09-01T07:24:57.076Z"
+    },
+    "pptx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/pptx/SKILL.md",
+      "skillFolderHash": "64529c8b3f35fe632b7256bd2f6d46e4b40160ce",
+      "pluginName": "document-skills",
+      "installedAt": "2026-09-01T07:24:57.076Z",
+      "updatedAt": "2026-09-01T07:24:57.076Z"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "skillFolderHash": "3cf9a8db32597ba3e24b584a3d696f4e11c7d7b6",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.077Z",
+      "updatedAt": "2026-09-01T07:24:57.077Z"
+    },
+    "slack-gif-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/slack-gif-creator/SKILL.md",
+      "skillFolderHash": "c61d2f7bb6334b68a6936ad3f41ebfc7cb76fe2a",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.077Z",
+      "updatedAt": "2026-09-01T07:24:57.077Z"
+    },
+    "theme-factory": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/theme-factory/SKILL.md",
+      "skillFolderHash": "e05534d132fb1b21f9917840874758e30f0a9b1a",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.077Z",
+      "updatedAt": "2026-09-01T07:24:57.077Z"
+    },
+    "web-artifacts-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/web-artifacts-builder/SKILL.md",
+      "skillFolderHash": "821b94f16c123d5f12e4e72eda9f7a162e2698f6",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.078Z",
+      "updatedAt": "2026-09-01T07:24:57.078Z"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/webapp-testing/SKILL.md",
+      "skillFolderHash": "5ffb7dc66b9fd4c25c3e400a4c00da99a349b714",
+      "pluginName": "example-skills",
+      "installedAt": "2026-09-01T07:24:57.078Z",
+      "updatedAt": "2026-09-01T07:24:57.078Z"
+    },
+    "better-auth-security-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/better-auth/skills.git",
+      "skillPath": "security/SKILL.md",
+      "skillFolderHash": "7cd035c1dd03aafc236ea43492d31ca3306b7ab6",
+      "installedAt": "2026-09-01T07:25:04.824Z",
+      "updatedAt": "2026-09-01T07:25:04.824Z"
+    },
+    "better-auth-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/better-auth/skills.git",
+      "skillPath": "better-auth/best-practices/SKILL.md",
+      "skillFolderHash": "2ed2719690a27752d6a01014ff217d9e3d120e43",
+      "pluginName": "auth-skills",
+      "installedAt": "2026-09-01T07:25:04.825Z",
+      "updatedAt": "2026-09-01T07:25:04.825Z"
+    },
+    "create-auth": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/better-auth/skills.git",
+      "skillPath": "better-auth/create-auth/SKILL.md",
+      "skillFolderHash": "f067ac9bee972c6320d990fd044a6da37f04fdee",
+      "pluginName": "auth-skills",
+      "installedAt": "2026-09-01T07:25:04.826Z",
+      "updatedAt": "2026-09-01T07:25:04.826Z"
+    },
+    "email-and-password-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/better-auth/skills.git",
+      "skillPath": "better-auth/emailAndPassword/SKILL.md",
+      "skillFolderHash": "cda40d2f5c4a8d3faff3017a5dfcb23f93497c29",
+      "installedAt": "2026-09-01T07:25:04.826Z",
+      "updatedAt": "2026-09-01T07:25:04.826Z"
+    },
+    "organization-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/better-auth/skills.git",
+      "skillPath": "better-auth/organization/SKILL.md",
+      "skillFolderHash": "4256d5266e6f51a4e4c718f5c2308a81eb4a0032",
+      "installedAt": "2026-09-01T07:25:04.827Z",
+      "updatedAt": "2026-09-01T07:25:04.827Z"
+    },
+    "two-factor-authentication-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/better-auth/skills.git",
+      "skillPath": "better-auth/twoFactor/SKILL.md",
+      "skillFolderHash": "9fefe55e06966780e9d60c170d90bf37dd734318",
+      "installedAt": "2026-09-01T07:25:04.827Z",
+      "updatedAt": "2026-09-01T07:25:04.827Z"
+    },
+    "brandkit": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/brandkit/SKILL.md",
+      "skillFolderHash": "d278ff748cafab01e4ae5dd7758fc0b53258621c",
+      "installedAt": "2026-09-01T07:25:14.511Z",
+      "updatedAt": "2026-09-01T07:25:14.511Z"
+    },
+    "industrial-brutalist-ui": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/brutalist-skill/SKILL.md",
+      "skillFolderHash": "f812ede7e5c34cf680f629911e9f9ac05e416cf4",
+      "installedAt": "2026-09-01T07:25:14.513Z",
+      "updatedAt": "2026-09-01T07:25:14.513Z"
+    },
+    "gpt-taste": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/gpt-tasteskill/SKILL.md",
+      "skillFolderHash": "c87d529ad945cd35985b19475bf53f41682d4f69",
+      "installedAt": "2026-09-01T07:25:14.513Z",
+      "updatedAt": "2026-09-01T07:25:14.513Z"
+    },
+    "image-to-code": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/image-to-code-skill/SKILL.md",
+      "skillFolderHash": "701b3cb89c061fcf98a98f639e0b0b5c0b492479",
+      "installedAt": "2026-09-01T07:25:14.514Z",
+      "updatedAt": "2026-09-01T07:25:14.514Z"
+    },
+    "imagegen-frontend-mobile": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/imagegen-frontend-mobile/SKILL.md",
+      "skillFolderHash": "9901fcde67e9506a706912107825fdfb72e01f30",
+      "installedAt": "2026-09-01T07:25:14.514Z",
+      "updatedAt": "2026-09-01T07:25:14.514Z"
+    },
+    "imagegen-frontend-web": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/imagegen-frontend-web/SKILL.md",
+      "skillFolderHash": "3b5117d349200e33f9c3399344681620079dcc18",
+      "installedAt": "2026-09-01T07:25:14.515Z",
+      "updatedAt": "2026-09-01T07:25:14.515Z"
+    },
+    "minimalist-ui": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/minimalist-skill/SKILL.md",
+      "skillFolderHash": "5509c012862cda27e2ed7efae89ed940ecc53add",
+      "installedAt": "2026-09-01T07:25:14.515Z",
+      "updatedAt": "2026-09-01T07:25:14.515Z"
+    },
+    "full-output-enforcement": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/output-skill/SKILL.md",
+      "skillFolderHash": "3dd6ad49b667d15182acddc9d3e4f7763ae33c9c",
+      "installedAt": "2026-09-01T07:25:14.516Z",
+      "updatedAt": "2026-09-01T07:25:14.516Z"
+    },
+    "redesign-existing-projects": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/redesign-skill/SKILL.md",
+      "skillFolderHash": "d9cffe56d26d4af7687299e391a7be1cfaf46c1b",
+      "installedAt": "2026-09-01T07:25:14.516Z",
+      "updatedAt": "2026-09-01T07:25:14.516Z"
+    },
+    "high-end-visual-design": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/soft-skill/SKILL.md",
+      "skillFolderHash": "1b5943432ddd1b980206968c529a323cc992dbec",
+      "installedAt": "2026-09-01T07:25:14.516Z",
+      "updatedAt": "2026-09-01T07:25:14.516Z"
+    },
+    "stitch-design-taste": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/stitch-skill/SKILL.md",
+      "skillFolderHash": "de2038cf286b31f33b397c1308455dbc17ef26f3",
+      "installedAt": "2026-09-01T07:25:14.517Z",
+      "updatedAt": "2026-09-01T07:25:14.517Z"
+    },
+    "design-taste-frontend-v1": {
+      "source": "leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/leonxlnx/taste-skill.git",
+      "skillPath": "skills/taste-skill-v1/SKILL.md",
+      "skillFolderHash": "3642ecef471a6ee4d9d485feea6df8ba92616b78",
+      "installedAt": "2026-09-01T07:25:14.518Z",
+      "updatedAt": "2026-09-01T07:25:14.518Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "343db72180d05814949fef7d46be96b5c6ee86b3",
+      "installedAt": "2026-09-01T07:25:23.414Z",
+      "updatedAt": "2026-09-01T07:25:23.414Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-09-01T07:25:23.415Z",
+      "updatedAt": "2026-09-01T07:25:23.415Z"
+    },
+    "install-anti-slop": {
+      "source": "dmmulroy/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dmmulroy/anti-slop.git",
+      "skillPath": "skills/install-anti-slop/SKILL.md",
+      "skillFolderHash": "44a970ae13bc32ef7391b681208a384e1aae669b",
+      "installedAt": "2026-09-01T07:25:26.379Z",
+      "updatedAt": "2026-09-01T07:25:26.379Z"
     }
   },
   "dismissed": {
@@ -521,16 +938,17 @@
   "lastSelectedAgents": [
     "amp",
     "antigravity",
+    "antigravity-cli",
     "cline",
     "codex",
     "cursor",
     "deepagents",
-    "firebender",
     "gemini-cli",
     "github-copilot",
-    "kimi-cli",
+    "kimi-code-cli",
     "opencode",
     "warp",
+    "zed",
     "claude-code"
   ]
 }
